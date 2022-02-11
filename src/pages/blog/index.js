@@ -19,7 +19,9 @@ export default class BlogIndexPage extends React.Component {
               color: 'black',
             }}
           >
-            Latest Blog Posts
+            
+     နောက်ဆုံးတင်ထားသော
+
           </h1>
         </div>
         <section className="section section--gradient">
